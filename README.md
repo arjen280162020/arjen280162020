@@ -1,0 +1,9 @@
+- 👋 Hi, I’m arjen, living in the heart of Scotland, way up North
+- 
+- 👀 I’m interested in automation, coding, manufacturing, Setting Out, Life, Nature, psychology, growth, etc.
+- 
+- 🌱 I’m currently learning Arduino, C++ basics, coming from a VBA/VB6/RS232C background, creating programs for Setting Out/Land Surveying, 3D Printing, Designing stuff on Thinghyverse
+- 
+- 💞️ I’m looking to collaborate on nothing as yet as still figuring stuff out, happy to collaborate once I've got "it" 
+- 
+- 📫 How to reach me arjenbroens(at)Yahoo(point)CO(point)UK
